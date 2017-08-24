@@ -1,0 +1,22 @@
+{
+  "name": "pay-dayle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dayle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdpatel2/pay-dayle.git"
+  },
+  "author": "mpatel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdpatel2/pay-dayle/issues"
+  },
+  "homepage": "https://github.com/mdpatel2/pay-dayle#readme",
+  "dependencies": {
+    "excel-as-json": "^2.0.1"
+  }
+}
